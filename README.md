@@ -21,7 +21,7 @@ scikit-learn for machine learning tasks.
 
 ## Getting Started
 ### Prerequisites
-Python (3.x recommended)
+Python (3.10 recommended)
 Conda for managing environments
 Jupyter Notebooks
 Create and activate the conda environment using:
@@ -37,17 +37,17 @@ conda activate heart-disease-env
 ### Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/heart-disease-classification.git
-cd heart-disease-classification
+git clone https://github.com/Alitariq747/uci_heart_disease_ml_project.git
+cd uci_heart_disease_ml_project
 ```
 ### Open and run the Jupyter notebook:
 
 ```bash
-jupyter notebook notebooks/Heart_Disease_Classification.ipynb
+jupyter notebook end-to-end-heart-disease-classification.ipynb
 ```
 
 ### Data Analysis and Model Building
-The Jupyter notebook Heart_Disease_Classification.ipynb contains the entire process of data analysis, exploration, preprocessing, hyperparameter tuning, and machine learning model development. It provides step-by-step explanations and insights into the decision-making process.
+The Jupyter notebook end-to-end-heart-disease-classification.ipynb contains the entire process of data analysis, exploration, preprocessing, hyperparameter tuning, and machine learning model development. It provides step-by-step explanations and insights into the decision-making process.
 
 ### Results
 The machine learning model achieved an accuracy of 89% on the test set after hyperparameter tuning and cross-validation. A confusion matrix and other evaluation metrics are presented in the notebook.
